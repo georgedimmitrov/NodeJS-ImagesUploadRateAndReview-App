@@ -1,0 +1,18 @@
+extends layout
+
+include mixins/_imageCard
+
+block content
+  .inner
+    h2 #{tag || title}
+    //- pre= h.dump(tags)
+    ul.tags
+      each t in tags
+        a.tag__link(href=`/tags/${t._id}` class=(t._id === tag ? 'tag__link--active' : ''))
+          span.tag__text= t._id
+          span.tag__count= t.count
+
+    //- pre= h.dump(images)
+    .images
+      each image in images
+        +imageCard(image)

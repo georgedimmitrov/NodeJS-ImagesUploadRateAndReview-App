@@ -1,0 +1,36 @@
+.single {
+  &__hero {
+    padding: 10px;
+    margin: 0 20px;
+    width: 60%;
+    float: left;
+    &__image {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    &__details {
+      background: white;
+      position: relative;
+      margin-top: -10rem;
+      box-shadow: 0 0 10px 2px rgba(0,0,0,0.15);
+    }
+    &__map {
+      width: 200px;
+      margin-top: -3rem;
+      margin-left: -3rem;
+    }
+  }
+}
+
+.right-panel {
+  padding-top: 10px;
+  display: inline-block;
+  float: left;
+  width: 33%;
+}
+
+.clearfix {
+  clear: both;
+  padding: 10px 0;
+}

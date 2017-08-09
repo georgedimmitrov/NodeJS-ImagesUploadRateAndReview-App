@@ -1,0 +1,8 @@
+extends layout
+
+include mixins/_imageForm
+
+block content
+  .inner
+    h2= title
+    +imageForm(image)
