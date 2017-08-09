@@ -1,0 +1,9 @@
+{
+    "extends": "airbnb-base",
+    "rules": {
+        "import/newline-after-import": "off",
+        "consistent-return": "off",
+        "func-names": "off",
+        "space-before-function-paren": "off"
+    }
+}

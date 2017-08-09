@@ -1,0 +1,15 @@
+html {
+  font-size: 10px;
+}
+
+body {
+  background:#efefef;
+}
+
+.inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  @media all and (max-width: 1200px) {
+    padding: 2rem;
+  }
+}
