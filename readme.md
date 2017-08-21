@@ -13,8 +13,11 @@ To start the app simply:
 3. npm start
 4. go to http://localhost:7777 in your favourite browser
 
-![Alt text](/screenshots/mainscreen.jpg?raw=true "Application Main Screen")
+OR
+
+### [LIVEDEMO](https://imageswithnode.herokuapp.com/images/page/1)
 
 ![Alt text](/screenshots/mainscreen.jpg?raw=true "Application Main Screen")
+
 
 
