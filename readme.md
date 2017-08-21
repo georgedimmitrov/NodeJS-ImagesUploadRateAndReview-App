@@ -12,3 +12,9 @@ To start the app simply:
 3. rename 'variables.env.example' to 'variables.env' and put in your DB and generate your google maps api key (its free)
 3. npm start
 4. go to http://localhost:7777 in your favourite browser
+
+![Alt text](/screenshots/mainscreen.jpg?raw=true "Application Main Screen")
+
+![Alt text](/screenshots/mainscreen.jpg?raw=true "Application Main Screen")
+
+
