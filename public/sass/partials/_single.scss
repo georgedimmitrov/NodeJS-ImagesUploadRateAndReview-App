@@ -21,14 +21,15 @@
       margin-left: -3rem;
     }
   }
+  &__details > .right-panel {
+    padding-top: 10px;
+    display: inline-block;
+    float: left;
+    width: 33%;
+  }
 }
 
-.right-panel {
-  padding-top: 10px;
-  display: inline-block;
-  float: left;
-  width: 33%;
-}
+
 
 .clearfix {
   clear: both;

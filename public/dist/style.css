@@ -845,7 +845,7 @@ label {
     margin-top: -3rem;
     margin-left: -3rem; }
 
-.right-panel {
+.single__details > .right-panel {
   padding-top: 10px;
   display: inline-block;
   float: left;
