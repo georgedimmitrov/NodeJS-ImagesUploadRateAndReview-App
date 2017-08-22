@@ -16,6 +16,7 @@ To start the app simply:
 OR
 
 ### [LIVEDEMO](https://imageswithnode.herokuapp.com/images/page/1)
+(Keep in mind the live demo is hosted freely on heroku, so it might be a bit dead)
 
 ![Alt text](/screenshots/mainscreen.jpg?raw=true "Application Main Screen")
 
